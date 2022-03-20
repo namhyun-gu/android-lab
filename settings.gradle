@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "android-lab"
-include ':app'
+include ':app-compose'
 include ':domain'
 include ':data'
